@@ -1,4 +1,4 @@
-Hi, I am Pruthak Joshi, a fourth year Dual Degree (B.Tech. + M.Tech.) student in Mechanical Engineering at Indian Institute of Technology Bombay. My specialization is Computer Aided Design and Automation. 
+Hi, I am Pruthak Joshi, a Dual Degree (B.Tech. + M.Tech.) graduate in Mechanical Engineering from Indian Institute of Technology Bombay. My specialization is Computer Aided Design and Automation. 
 
 My interests lie in the field of robotic systems design. I am the team leader of IITB Mars Rover Team, consisting of about 40 members from various departments and study programmes at IITB.
 
